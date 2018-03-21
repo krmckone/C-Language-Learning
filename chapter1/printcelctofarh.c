@@ -12,7 +12,6 @@
 main() {
 
     float fahr, celcius;
-    int lower, upper, step;
 
     celcius = LOWER;
 
